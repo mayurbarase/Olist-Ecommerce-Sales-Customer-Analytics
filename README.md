@@ -4,7 +4,8 @@ An interactive e-commerce analytics project built with **Microsoft Excel and Pow
 
 This is my third Data Analytics project, and the first where I moved past single-table dashboards into working with **multiple related datasets, real data transformation, and data modeling**.
 
-![Dashboard Preview](images/dashboard-full.png)
+<img width="1384" height="860" alt="Screenshot 2026-10-02 001549" src="https://github.com/user-attachments/assets/9d967065-96a6-47b5-8a5c-c720c6aa5dfa" />
+
 
 ---
 
@@ -268,8 +269,8 @@ Rather than just following tutorials, I wanted to work through a larger dataset,
 
 It's part of my ongoing journey toward becoming a Data Analyst.
 
-- **GitHub:** [your-username](https://github.com/your-username)
-- **LinkedIn:** [your-name](https://linkedin.com/in/your-profile)
+- **GitHub:** [mayur-barase](https://github.com/mayurbarase)
+- **LinkedIn:** [Mayur-Barase](https://www.linkedin.com/in/mayur-barase-2b5562364?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ---
 
